@@ -1,6 +1,6 @@
 # Breast-Cancer-Classification
 
-Breast Cancer Classification Project <br>
+Breast Cancer Classification Personal Project <br>
 -> did an exploratory analysis with Seaborn pairplot <br>
 -> model fit and prediction with sklearn SVM <br>
 -> analyze results with sklearn confusion matrix and classification report <br>
