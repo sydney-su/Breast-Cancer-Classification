@@ -13,4 +13,3 @@ Breast Cancer Classification Personal Project <br>
 
     accuracy                           0.99       114
     
-credit to this [tutorial](https://projectgurukul.org/breast-cancer-classification-using-machine-learning/)
